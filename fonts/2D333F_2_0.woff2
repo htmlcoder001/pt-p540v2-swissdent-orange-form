@@ -1,0 +1,1337 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="pt">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="pt">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="pt">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="pt">
+<!--<![endif]-->
+	<head>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-K7ZC22X');</script>
+		<!-- End Google Tag Manager -->
+		<title> | GQportugal.pt</title>
+		<meta name="author" content="RECO s.r.o.">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta name="keywords" content>
+		<meta name="description" content>
+			<meta name="robots" content="noindex, nofollow">
+		<link rel="shortcut icon" href type="image/x-icon">
+		<link rel="shortcut icon" href="../images/GQ-favicon.png" type="image/png">
+		
+		<!-- Chrome, Firefox OS and Opera -->
+		<meta name="theme-color" content="#0d0d0d">
+		<!-- Windows Phone -->
+		<meta name="msapplication-navbutton-color" content="#0d0d0d">
+		<!-- iOS Safari -->
+		<meta name="apple-mobile-web-app-status-bar-style" content="#0d0d0d">
+		
+		<script src="../js/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="../js/classie.js"></script>
+		<script src="../js/modernizr.custom.js"></script>
+		<script src="../js/wow.min.js"></script>
+		<script src="../js/jquery.sticky.js"></script>
+		<script type="text/javascript" src="../js/slick.min.js"></script>
+		
+		<link rel="stylesheet" href="../css/reset.css">
+		<link rel="stylesheet" href="../css/jquery-ui.css">
+		<link rel="stylesheet" href="../css/form.css">
+		<link rel="stylesheet" href="../css/slick.css">
+		<link rel="stylesheet" href="../css/hamburger.css">
+		<link rel="stylesheet" type="text/css" href="../css/fxfullwidth.css">
+		<link rel="stylesheet" href="../css/infinite-scroll-docs.css">
+		<link rel="stylesheet" href="../css/style.css">
+		<link rel="stylesheet" href="../css/responsive.css">
+		
+		<script>
+			var next_url = '';
+		</script>
+		
+		<script>
+			var masonry_grid;
+			
+			function load_ct_b_1() {
+			
+			}
+			
+			function load_ct_b_2() {
+			
+			}
+			
+			function load_ct_b_3() {
+			
+			}
+			
+			function reload_grid() {
+				/*$('.image-grid.grid-intro').masonry({
+					 itemSelector: '.image-grid__item',
+					  columnWidth: '.image-grid__col-sizer',
+					  gutter: '.image-grid__gutter-sizer',
+					  percentPosition: true,
+					  stagger: 30,
+					  // nicer reveal transition
+					  visibleStyle: { transform: 'translateY(0)', opacity: 1 },
+					  hiddenStyle: { transform: 'translateY(100px)', opacity: 0 }
+				});
+				$('.image-grid.grid-intro').masonry('reloadItems');*/
+			}
+		</script>
+		
+		
+		<meta property="og:title" content>
+		<meta property="og:site_name" content="gqportugal.pt">
+		<meta property="og:type" content="website">
+		<meta property="fb:app_id" content="1181899465275870">
+		<meta property="og:url" content="https://www.gqportugal.pt/skin/frontend/fonts/2D333F_2_0.woff2">
+		<meta property="og:description" content>
+			<meta property="og:image" content="../images/meta-site-image.png">
+		<script data-cfasync="false"> 
+			function call_content_tango() {
+				(function (d,w,m) { window.contentTangoId=4; var s=d.createElement('script'); var t=new Date(); s.async=true; s.defer=true; s.setAttribute('data-cfasync',false); s.src='//lighthouse.odyzeo.com/loader-2.js?'+t.getMonth()+t.getDate()+m.floor(t.getHours()/2); d.head.appendChild(s); })(document,window,Math);
+			}
+		</script>
+		
+		<!--
+		<script type="text/javascript" id="cookiebanner"
+			src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.2/cookiebanner.min.js"
+			data-bg="#0d0d0d"
+			data-fg="#fff"
+			data-link="#99855f"
+			data-z-index="10000000000"		
+			data-cookie="CookieInfoScript"
+			data-text-align="center"
+			data-divlinkbg="#fff"
+			data-divlink="#99855f"
+			data-padding="20px 20px"
+			data-message="Este website utiliza cookies. Saiba mais sobre a "
+			data-linkmsg="nossa política de cookies."
+			data-moreinfo="/politica-de-privacidade-e-cookies"
+			data-close-text="OK"
+			data-close-style="	background-color: #bda373;
+								cursor: pointer;
+								padding: 7px 20px;
+								position: absolute;
+								right: 10px;
+								bottom: 10px;
+								text-align: center;
+								color: #fff;
+								font-size: 12px;
+								border-radius: 0px;"
+			data-max-height="250px"
+			data-height="auto"
+			data-font-family="'Graphik Web', sans-serif"		
+			data-font-size= "14px">	
+		</script>
+		<style>
+			.cookiebanner {
+				line-height: 35px !important;
+				z-index: 10000 !important;
+			}
+			
+			.cookiebanner-close {
+				line-height: 15px !important;
+			}
+			
+			@media screen and (max-width: 1420px) {
+				HEADER NAV UL {
+					text-align: left;
+				}
+			}
+			
+			@media screen and (max-width: 1280px) {
+				HEADER NAV UL LI {
+					display: inline-block;
+					margin-left: 8px;
+					margin-right: 8px;
+				}
+			}
+			
+			@media screen and (max-width: 768px) {
+				.cookiebanner {
+					font-size: 10px !important;
+					line-height: 20px !important;
+				}
+				
+				.cookiebanner SPAN {
+					display: block;
+					padding-bottom: 40px;
+				}
+				
+				.cookiebanner-close {
+					left: 10px;
+				    width: 100px;
+					font-size: 10px !important;
+					padding: 5px 10px;
+					margin: 0 auto;
+				}
+			}
+		</style>
+		-->
+		<script id="Cookiebot" src="../js/uc.js" data-cbid="0fc3b6e1-edf9-43c2-a5d1-7e1a50eef417" type="text/javascript"></script>
+		<style>
+			#CybotCookiebotDialog {
+				color: #fff !important;
+				background: #0d0d0d !important;
+			}
+			
+			#CybotCookiebotDialog .CybotCookiebotFader {
+				background: none !important;
+			}
+			
+			#CybotCookiebotDialogHeader { display: none !important; }
+			
+			#CybotCookiebotDialogPoweredByText {
+				display: none !important;
+			}
+			
+			#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+				background-color: #bda373 !important;
+				border-color: #bda373 !important;
+				color: #ffffff;
+			}
+			
+			#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonCustomize, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection {
+				color: #fff !important;
+			    border-color: #bda373 !important;
+			}
+			
+			#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+				color: #fff !important;
+				border: 2px solid #bda373 !important;
+			}
+			
+			#CybotCookiebotDialogTabContent input:checked+.CybotCookiebotDialogBodyLevelButtonSlider {
+				background-color: #bda373 !important;
+			}
+			
+			#CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
+				color: #bda373 !important;
+			}
+			
+			#CookiebotWidget {
+				display: none !important;
+			}
+			
+			@media screen and (max-width: 768px) {
+				#CybotCookiebotDialog {
+					top: unset !important;
+					bottom: 0px !important;
+					transform: translateX(-50%) !important;
+				}
+				
+				#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+					padding: 5px !important;
+				}
+				
+				#CybotCookiebotDialogBody .CybotCookiebotScrollContainer {
+					max-height: 10em !important;
+				}
+			}
+		</style>
+	</head>
+	<body class="skin page- category- child-category-">
+		<noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		
+		<div class="top_banner">
+			<div class="wrapper">
+						<div class="ct-b-3"></div>
+				
+			</div>
+		</div>
+		<header>
+			<div class="top-header">
+				<div class="wrapper">
+					<ul class="social">
+						<li><a class="facebook" href="https://www.facebook.com/gqportugal" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a class="instagram" href="https://www.instagram.com/gqportugal/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a class="youtube" href="https://www.youtube.com/channel/UCPc2czy2r0_i668dgOO_mqw" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+						<li><a class="rss" href="/rss-feed"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+						<li><a class="vogue" href="https://www.vogue.pt" target="_blank"><i class="fa"></i></a></li>
+					</ul>
+					<div id="nav-icon3">
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<a href="/" class="logo"><img src="GQ-white.svg" width="144" height="70" alt="GQ Logo" title="GQ Logo"></a>
+					<form method="get" class="search-form mobile" action="/pesquisa" style="display: none;">
+						<a href="javascript:void(0);" class="search-form-button mobile"><i class="fa fa-search" aria-hidden="true"></i></a>
+						<input type="text" name="search_value" value placeholder="Pesquisa" onfocus="this.placeholder=''" onblur="this.placeholder='Pesquisa'">
+						<a href="javascript:void(0);" class="search-close-button mobile"><i class="fa fa-close" aria-hidden="true"></i></a>
+					</form>
+					<a href="javascript:void(0);" class="search search-button mobile"><i class="fa fa-search" aria-hidden="true"></i></a>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<nav>
+				<div class="wrapper">
+					<a href="/" class="logo-small"><img src="GQ-white.svg" width="72" height="35" alt="GQ Logo" title="GQ Logo"></a>
+					<ul>				<li class="parent-li"><a href="/ultimas" class=" has-submenu" data-id="1">Últimas</a>				</li><li class="parent-li"><a href="/estilo" class=" has-submenu" data-id="2">Estilo</a>				</li><li class="parent-li"><a href="/bon-vivant" class=" has-submenu" data-id="3">Bon Vivant</a>				</li><li class="parent-li"><a href="/grooming" class=" has-submenu" data-id="4">Grooming</a>				</li><li class="parent-li"><a href="/diva-gq" class=" has-submenu" data-id="5">GQ for Her</a>				</li><li class="parent-li"><a href="/opiniao" class=" has-submenu" data-id="6">Opinião</a>				</li><li class="parent-li"><a href="/musas-gq" class=" has-submenu" data-id="7">Musas GQ</a>				</li><li class="parent-li"><a href="/gq-tv" class=" has-submenu" data-id="9">GQ tv</a>				</li><li class="parent-li"><a href="/moty" class=" has-submenu" data-id="10">Moty</a>				</li><li class="parent-li"><a href="/daring-stories" class=" has-submenu" data-id="40">Daring Stories</a>				</li><li class="parent-li"><a href="https://shop.light-house.pt/collections/gq-portugal-magazines" target data-id="41">COvers</a></li><li class="parent-li"><a href="https://shop.light-house.pt" target="_blank" style="color: #bda373;">Shop</a></li>		  </ul>
+					<form method="get" class="search-form desktop" action="/pesquisa" style="display: none;">
+						<a href="javascript:void(0);" class="search-form-button desktop"><i class="fa fa-search" aria-hidden="true"></i></a>
+						<input type="text" name="search_value" value placeholder="Pesquisa" onfocus="this.placeholder=''" onblur="this.placeholder='Pesquisa'">
+						<a href="javascript:void(0);" class="search-close-button desktop"><i class="fa fa-close" aria-hidden="true"></i></a>
+					</form>
+					<a href="javascript:void(0);" class="search search-button desktop"><i class="fa fa-search" aria-hidden="true"></i></a>
+					<ul class="social mobile">
+						<li><a class="facebook" href="https://www.facebook.com/gqportugal" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a class="instagram" href="https://www.instagram.com/gqportugal/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a class="youtube" href="https://www.youtube.com/channel/UCPc2czy2r0_i668dgOO_mqw" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+						<li><a class="rss" href="/rss-feed"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+						<li><a class="vogue" href="https://www.vogue.pt" target="_blank"><i class="fa"></i></a></li>
+					</ul>
+					<ul class="header-menu-items mobile">
+						<li><a href="/contactos">Contactos</a></li>
+						<li><a href="ficha-tecnica">Ficha técnica</a></li>
+						<li><a href="/termos-e-condicoes">Termos e condições</a></li>
+						<li><a href="/politica-de-privacidade-e-cookies">Política de privacidade e cookies</a></li>
+						<li><a href="/gq-no-mundo">GQ no mundo</a></li>
+						<li><a href="/newsletter">Newsletter</a></li>
+						<li><a href="https://shop.light-house.pt" target="_blank">Shop</a></li>
+					</ul>
+				</div>
+				<div class="submenu" id="submenu_1">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/03-curiosidades" class=" " data-id="11">Curiosidades</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_11" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/um-futuro-mais-verde-e-prospero';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-80942624%20%281%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Um futuro mais verde e próspero</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_11" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/felicidade-estudo-harvard';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/avatar-smile.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">O que faz as pessoas felizes?</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_11" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/segredo-sucesso-ferramenta';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/iStock-185228264.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A “habilidade mais subestimada” de todas as pessoas de sucesso?</p>
+											</div>
+										</div></div></div></li><li><a href="/02-entrevistas" class=" " data-id="12">Entrevistas</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_12" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/way-45-papo-de-ninja-com-rafael-le-o';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/IMG_0341%20%281%29%20copy.PNG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Entrevista e exclusivo: “Papo de Ninja”, videoclipe do álbum de estreia de Way 45, aka Rafael Leão</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_12" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/intelig-ncia-artificial-conversa-com-mo-gawdat-ex-cbo-da-google-x';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Mo%20Gawdat_008_lp.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Inteligência Artificial | Conversa com Mo Gawdat, ex-CBO da Google X</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_12" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/as-batalhas-de-matilde-gattoni';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/030%200Z6A1960medium%20copy.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">As batalhas de Matilde Gattoni</p>
+											</div>
+										</div></div></div></li><li><a href="/01-noticias" class=" " data-id="13">Notícias</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_13" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/or-amento';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/IMAGEM_ORC%C3%8C%C2%A7AMENTO%20copy.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Orçamento: Grão a grão, chega-se ao milhão</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_13" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/berlinale-nuno-lopes-rafael-morais-joao-canijo';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/2.JPG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Berlinale: Festival tem double feature de Canijo</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_13" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/j-hope-louis-vuitton-embaixador';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/J-HOPE_JOINS_LOUIS_VUITTON_AS_ITS_LATEST_HOUSE_AMBASSADOR.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">J-Hope para Louis Vuitton</p>
+											</div>
+										</div></div></div></li><li><a href="/04-parceriagq" class=" " data-id="14">Parceria GQ</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_14" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/land-sea-air-fragrancia-mercedes';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/landseaair2.PNG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Land, Sea, Air: a Mercedes-Benz à conquista dos elementos</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_14" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/eattasty-eatbetter';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/equipa-marca-recomendada.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Comer deliciosamente sem puxar pela cabeça</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_14" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/a-xiaomi-anda-procura-da-obra-prima-de-portugal';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/%C3%A2%C2%AD_%20Capelinhos%20%28Joa%C3%8C_o%20Bernardino%29%20copy.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A Xiaomi anda à procura da “Obra-prima de Portugal”</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/ultimas" class=" " data-id="1">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_2">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/06-colecoes" class=" " data-id="20">Coleções</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_20" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/ernest-w-baker-ss24-paris';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/ernest-w-baker-mens-fw00027.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Ernest W. Baker | Primavera-Verão 2024</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_20" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/montblanc-encontra-inspiracao-nas-bibliotecas';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/WhatsApp%20Image%202023-04-24%20at%2012.33.29.jpeg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Montblanc encontra inspiração nas bibliotecas</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_20" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/a-nova-cole-o-da-fred-perry-e-uma-ode-auto-express-o';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/J5533_P96_4.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A nova coleção da Fred Perry é uma ode à auto expressão</p>
+											</div>
+										</div></div></div></li><li><a href="/03-eventos" class=" " data-id="21">Eventos</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_21" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/wimbledon-here-we-go';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/MASTER_AVATAR.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Wimbledon here we go!</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_21" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/chopard-e-cannes-amor-primeira-vista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/gqportugalchopard.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Chopard e Cannes: amor à primeira vista</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_21" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gq-global-creativity-awards-new-york-2023';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/creativity-awards-gq00001.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ US | Global Creativity Awards estreiam-se em Nova Iorque</p>
+											</div>
+										</div></div></div></li><li><a href="/01-homens-gq" class=" " data-id="22">Homens GQ</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_22" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/get-the-look-subversao-materializada';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-517726010.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Get the look: Subversão materializada</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_22" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/mick-jagger-icone-de-estilo';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-672902484.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Mick Jagger: ícone de estilo</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_22" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/get-the-look-pharrell-williams';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/2-pharrell-williams-estilo.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Get the look: Pharrell Williams</p>
+											</div>
+										</div></div></div></li><li><a href="/04-moda" class=" " data-id="23">Moda</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_23" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/kencore-has-arrived';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/barbie-e-ken.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Kencore has arrived!</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_23" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/the-nostalgia-and-beauty-of-time-passing';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/1_48.jpeg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">The nostalgia and beauty of time passing</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_23" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/free-the-thigh-calcoes-curtos';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/%C3%A2__Resize%20Base%20COPY%20N%20PASTE%202.%C3%A2__001.jpeg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Free the thigh!</p>
+											</div>
+										</div></div></div></li><li><a href="/02-relogios-e-acessorios" class=" " data-id="24">Relógios e Acessórios</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_24" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/prova-de-gelo-relogios-gelados';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/ESTILO_RELOGIOS-2-2.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">À prova de gelo</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_24" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/oculos-verao-andre-opticas';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GS406645_post_dust.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A Olhar o Céu | Os óculos para este verão</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_24" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/relogios-king-charles';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-170876839.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">King Charles III, o colecionador de relógios</p>
+											</div>
+										</div></div></div></li><li><a href="/05-tendencias" class=" " data-id="25">Tendências</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_25" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/wild-wild-west-tendencias';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/avatar_wild_wild_west%20%281%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Wild Wild West</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_25" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/biker-era-tendencia';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/BIKER_ERA.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Biker Era</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_25" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/denim-overload';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/DENIM_OVERLOAD2.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Denim Overload</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/estilo" class=" " data-id="2">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_3">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/01-culto" class=" " data-id="15">Culto</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_15" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/barbenheimer-a-sess-o-dupla-que-junta-uma-boneca-e-uma-bomba';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/barbie%20e%20oppenheimer%20vertical.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Barbenheimer: a sessão dupla que junta uma boneca e uma bomba</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_15" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/pintar-as-coisas-vivas';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Captura%20de%20ecra%C3%8C_%202023-07-18%2C%20a%C3%8C_s%2012.11.34.png&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Pintar as Coisas Vivas</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_15" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/mustfollow-the-yellow-jackets-couple';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Ermida%20dos%20Antepassados.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">#MUSTFOLLOW | The Yellow Jackets Couple</p>
+											</div>
+										</div></div></div></li><li><a href="/05-gq-neighborhood" class=" " data-id="16">GQ Neighborhood</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_16" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/cinema-ar-livre-cine-society';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Cine%20Society%20Logo.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Em Lisboa, o cinema é ao ar livre</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_16" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/festival-mental-2021';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Festival%20Mental-2021-2.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name"> A saúde mental sobe ao palco</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_16" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/casa-de-pedra-parque-da-bela-vista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/acacia%20maior%20coletivo.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A Casa de Pedra chega para dinamizar o Parque da Bela Vista em Lisboa</p>
+											</div>
+										</div></div></div></li><li><a href="/02-inout" class=" " data-id="17">In&out</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_17" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gq-cocktail-martini-fiero-mule';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/avatar_3_martini%20fiero%20mule.JPG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ Cocktail | Martini Fiero Mule</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_17" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/banana-bread-vegano-receitas-da-casa';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Captura%20de%20ecra%C3%8C_%202023-07-14%2C%20a%C3%8C_s%2012.31.44.png&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Banana Bread Vegano</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_17" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gq-cocktail-la-casa';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/avatar_2_la%20casa.JPG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ Cocktail | La Casa</p>
+											</div>
+										</div></div></div></li><li><a href="/04-motores" class=" " data-id="18">Motores</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_18" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/lexus-300e-motores';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/lexus-ux-300e-dpl-108.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Ligado à corrente... e ao futuro</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_18" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/alfa-romeo-giulia-6c-villa-d-este';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/_FF64803.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Ao volante de uma história italiana</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_18" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/batmobile-eletrico';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/2-batmobile-eletrico.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Foi produzido o primeiro Batmobile elétrico do mundo</p>
+											</div>
+										</div></div></div></li><li><a href="/03-tecnologia-apps" class=" " data-id="19">Tecnologia & Apps</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_19" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/apps-de-excel-ncia-pequeno-guia-para-uma-vida-descansada';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GQ_MOTY_MASTER.00_21_51_01.Still005%20-%20co%C3%8C_pia.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Apps de Excelência: pequeno guia para uma vida descansada</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_19" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/nft-explained';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Montagem%20-%20Mona%20Lisa.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Que raio é um NFT?</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_19" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/ai-da-tecnologia-artificial';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Ai-Da%20Robot%20with%20Painting_%28Photographer%20Nicky%20Johnston%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Ai-Da: Entre o artifício e o artificial</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/bon-vivant" class=" " data-id="3">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_4">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/01-beleza" class=" " data-id="28">Beleza</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_28" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gift-guide-2022-o-guia-de-perfumes';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/gift%20guide%20house%20gq%20perfumes.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Gift Guide 2022: o guia de perfumes</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_28" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gift-guide-2022-o-guia-de-gadgets-de-beleza';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/gift%20guide%20house%20gq%20gadgets.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Gift Guide 2022: o guia de gadgets de Beleza</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_28" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gift-guide-2022-o-guia-de-natal-de-skincare';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/gift%20guide%20house%20gq%20skin.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Gift Guide 2022: o guia de Natal de skincare</p>
+											</div>
+										</div></div></div></li><li><a href="/02-saude-e-fitness" class=" " data-id="29">Saúde e Fitness</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_29" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/viver-na-cidade';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Captura%20de%20ecra%C3%8C_%202023-07-05%2C%20a%C3%8C_s%2011.38.07.png&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Viver na cidade</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_29" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/workout-semanal-harvard';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/iStock-961567722.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Quanto exercício tem de fazer por semana, no mínimo, para cuidar da sua saúde?</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_29" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/holmes-place-campanha';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Holmes%20Place%201.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Novo ano, o mesmo estilo de vida</p>
+											</div>
+										</div></div></div></li><li><a href="/03-sexo" class=" " data-id="30">Sexo</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_30" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/habitos-de-masturbacao';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-81316254.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">O que são bons hábitos de masturbação?</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_30" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/eu-tu-e-quem-mais-quiser';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/eros2%20copy%20%281%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Eu, tu e quem mais quiser</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_30" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/infertilidade-masculina-desmistificada';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/infertilidade-masculina.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Infertilidade masculina desmistificada</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/grooming" class=" " data-id="4">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_5">
+								<div class="wrapper">
+									<div class="row"><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/dia-da-mulher-cinco-personalidades-ucranianas-a-destacar';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/dia-da-mulher-ucrania.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Dia da Mulher: Cinco personalidades ucranianas a destacar</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/os-uniformes-femininos-sao-alvo-de-protesto-no-desporto';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/desporto-feminino-jogos-olimpicos-getty-images%C3%82%C2%A9.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Os uniformes femininos são alvo de protesto no desporto</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/dia-da-mae-sugestao-de-presentes';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/dia-da-mae-presentes.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Querida mãe</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/dia-da-mulher-as-10-pioneiras';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/dia-da-mulher-as-10-pioneiras.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Dia da Mulher: 10 portuguesas que se chegaram à frente</p>
+											</div>
+										</div></div></div></div><div class="submenu" id="submenu_6">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/02-editors-pick" class=" " data-id="31">Editor’s Pick</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_31" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/um-verao-sem-paz-a-gq-que-ai-vem';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/CAPAS_AVATAR%20%281%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Um verão sem paz: a GQ que aí vem</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_31" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/louis-vuitton-yayoi-kusama-menswear-2023';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/men-yayoi-vuitton.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Louis Vuitton x Yayoi Kusama: 10 peças must-have</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_31" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gq-187-com-os-moty-a-iluminar-o-caminho';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Banner---Loja---GQ-187---MOTY-%2B-supleento%20-%20co%C3%8C_pia.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ 187: Com os MOTY a iluminar o caminho</p>
+											</div>
+										</div></div></div></li><li><a href="/03-reviews" class=" " data-id="32">Reviews</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_32" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/house-of-the-dragon-review';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/220822_house-of-the-dragon-seaosn-1-milly-alcock-paddy-considine-1014x570-1.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">House of the Dragon: entre a redenção e a consolação</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_32" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/harrys-house-review';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GettyImages-1391828636%20%281%29.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">A emancipação de Harry Styles</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_32" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/socio-107658-quando-eu-fiz-17-anos';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Bernabe%C3%8C_u%20-%20co%C3%8C_pia.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Sócio #107658*: Quando eu fiz 17 anos</p>
+											</div>
+										</div></div></div></li><li><a href="/01-vozes-gq" class=" " data-id="33">Vozes GQ</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_33" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/spielberg-e-a-verdade-da-mentira';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Bruno_Vieira_Amaral.jpeg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Spielberg e a verdade da mentira</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_33" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gq-189-carta-do-diretor';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Jose%C3%8C_%20Santana%20Peace%20and%20War%20copy.JPG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ 189: Carta do Diretor</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_33" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/fic-es-mais-ou-menos-para-la-da-rede-mosquiteira';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/DA.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Ficções Mais ou Menos: Para lá da rede mosquiteira</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/opiniao" class=" " data-id="6">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_7">
+								<div class="wrapper">
+									<div class="row"><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/uma-aventura-com-ana-das-aventuras';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/4-ana-ventura-entrevista-gq-portugal.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Uma aventura com Ana das aventuras</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/laura-dutra-entrevista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/1-laura-dutra-entrevista-gq-portugal.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Laura Dutra, do bodyboard para o ecrã</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/liliana-santos-entrevista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/4-liliana-santos-gq-portugal-setembro-2016.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Liliana Santos, the tank girl</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/ines-aires-pereira-entrevista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/2-ines-aires-pereira-entrevista-gq-portugal.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Rebelde Airosa Inês</p>
+											</div>
+										</div></div></div></div><div class="submenu" id="submenu_9">
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-md-12">
+											<ul><li><a href="/livestream" class=" " data-id="26">Livestream</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles first_top_articles" id="top_articles_26" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gucci-livestream-outono-inverno-2020';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/STD_PT.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Gucci: outono/inverno 2020, em direto de Milão</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_26" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/gucci-livestream-primavera-verao-2020';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Portugal.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Gucci: primavera/verão 2020, em direto de Milão</p>
+											</div>
+										</div><div class="col-md-4 top_articles first_top_articles" id="top_articles_26" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/livestream-premio-gq-portugal-2018';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/livestream-premio-gq-2018.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">GQ Men of the Year Awards 2018 | A gala completa</p>
+											</div>
+										</div></div></div></li><li><a href="/videos" class=" " data-id="27">Vídeos</a><div class="top-articles-box"><div class="row"><div class="col-md-4 top_articles " id="top_articles_27" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/a-primeira-longa-metragem-portuguesa-feita-em-stop-motion-estreia-hoje';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/victoria-guerra-ana-sofia.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Victoria Guerra e Ana Sofia Martins conversam sobre Os Demónios do Meu Avô</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_27" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/entrevista-video-dos-acores-para-o-mundo';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/atores%20netflix.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Entrevista em vídeo: Dos Açores para o mundo</p>
+											</div>
+										</div><div class="col-md-4 top_articles " id="top_articles_27" style="display: none;">
+											<div class="article-link-box" onclick="window.location='/milhana-lan-a-novo-disco';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/image00016%20copy.jpeg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">"De Sombra a Sombra": Milhanas lança o álbum de estreia</p>
+											</div>
+										</div></div></div></li><li class="view-all-li"><a href="/gq-tv" class=" " data-id="9">View all ></a></li></ul>
+								</div></div></div></div><div class="submenu" id="submenu_10">
+								<div class="wrapper">
+									<div class="row"><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/gq-moty-2022-role-model-cole-sprouse';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/cole-sprouse-english-version.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">WINNER GQ MOTY '22 | Role Model: Cole Sprouse</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/fashion-story-cole-sprouse-moty-22-role-model';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/cole-sprouse-fashion-story-moty.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Cole Sprouse | "Camera Duel"</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/gq-moty-2022-modelo-feminino-internacional-precious-lee';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/precious%20lee.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">WINNER GQ MOTY '22 | Modelo Internacional Feminino: Precious Lee</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/editorial-marcelo-zhang';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/GQ%20-%20Marcelo%20Zhang58248_result.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Marcelo Zhang | "Flower Power"</p>
+											</div>
+										</div></div></div></div><div class="submenu" id="submenu_40">
+								<div class="wrapper">
+									<div class="row"><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/nuno-santos-um-exemplo-para-todos';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/nuno-santos-exemplo-para-todos.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Nuno Santos, um exemplo para todos</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/andre-macedo-historia-superacao-e-sucesso';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/andre-macedo-historia-sucesso-supercao.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">André Macedo, uma história de superação e sucesso</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/kiko-martins-e-o-inconformismo-que-me-faz-querer-sempre-remar';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/Chef-Kiko-6.jpg&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Kiko Martins: “É o inconformismo que me faz querer sempre remar”</p>
+											</div>
+										</div><div class="col-md-3">
+											<div class="article-link-box" onclick="window.location='/fernando-guerra-entrevista';">
+												<div class="image">
+													<div class="image-grid__image" style="background-image: url(&#x27;../images/fernando-guerra.JPG&#x27;); background-size: cover;"></div>
+													<span class="more"><i class="fa fa-plus" aria-hidden="true"></i></span>
+												</div>
+												<p class="article-name">Fernando Guerra: um pioneiro na fotografia de arquitetura</p>
+											</div>
+										</div></div></div></div><div class="submenu" id="submenu_41">
+								<div class="wrapper">
+									<div class="row"></div></div></div>
+			</nav>
+		</header>
+		<div id="page">
+				<div class="ct-b-3-mobile"></div>
+				<div class="ct-b-3-tablet"></div>
+			<div class="overlay"></div>
+<div class="wrapper">
+	<div class="content no-margin">
+		<h1>Error 404</h1>
+	</div>
+</div>			<footer>
+				<div class="footer-bottom-content">
+					<div class="wrapper">
+						<a href="/" class="logo"><img src="lighthouse-publishing-logo.svg" alt="LightHouse Logo" title="LightHouse Logo"></a>
+						<div class="footer-menu-items">
+							<div><a href="/contactos">Contactos</a></div>
+							<div><a href="ficha-tecnica">Ficha técnica</a></div>
+							<div><a href="/termos-e-condicoes">Termos e condições</a></div>
+							<div><a href="/politica-de-privacidade-e-cookies">Política de privacidade e cookies</a></div>
+							<div><a href="/gq-no-mundo">GQ no mundo</a></div>
+							<div><a href="/newsletter">Newsletter</a></div>
+							<div><a href="https://shop.light-house.pt" target="_blank">Shop</a></div>
+						</div>
+						<div class="magazine">
+							<a href="https://shop.light-house.pt" target="_blank">
+								<img src="../images/CAPA-189_instagram_A.jpg" width="120">
+								Shop
+							</a>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<div class="copyright2"></div>
+		<script type="text/javascript" src="../js/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/jquery.hoverIntent.js"></script>
+		<script type="text/javascript" src="../js/animatescroll.min.js"></script>
+		
+		<script src="../js/bootstrap.min.js"></script>
+		<link href="../css/bootstrap.min.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../css/jquery.fancybox.css" type="text/css">
+		<script src="../js/jquery.fancybox.js"></script>
+		
+		<script src="../js/e1ece1c3e6.js"></script>
+		
+		<script type="text/javascript" src="../js/lazyload.min.js"></script>
+		<script type="text/javascript" src="../js/parallax.js"></script>
+		<script type="text/javascript" src="../js/jquery.slinky.min.js"></script>
+		<script type="text/javascript" src="../js/makefixed.min.js"></script>
+		<!--script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.9.0/lazyload.min.js"></script-->
+
+		<script type="text/javascript" src="../js/main.js"></script>
+		<script>
+			jQuery(document).ready(function($) {
+				function redraw_banner() {
+					if($(window).height() > 480) {
+						$(".main-slider-box, .main-slider-items").height(($(window).height() - $('header').height() - 50) + 'px');
+					}
+				}
+				if($(window).width() >= 991) {
+					$(".pinned").sticky({topSpacing: 60});
+				}
+				
+				redraw_banner();
+				
+				$(window).resize(function() {
+					redraw_banner();
+				});
+				
+				$('#newsletter_form .continue').click(function() {
+					$('#newsletter_form').hide();
+					$(".newsletter_result").show();
+					$(".newsletter_result .loader").show();
+								
+					var email = $('#newsletter_form .email').val();
+								
+					$.post("?newsletter=1&email=" + email, function(data) {
+						if(data >= -1) {
+							$(".newsletter_result").html('<p>Obrigado por subcrever a nossa newsletter.</p>');
+							
+							dataLayer.push({
+							   event: 'track',
+							   eventCategory: 'newsletter',
+							   eventAction: 'signup_gq'
+							});
+						} else {
+							$(".newsletter_result").html('<p>Registration failed.</p>');
+										
+							setTimeout(function() {
+								$(".newsletter_result").html('<div class="loader"></div>');
+											
+								$('#newsletter_form').fadeIn();
+								$(".newsletter_result").hide();
+								$(".newsletter_result .loader").hide();
+							}, 5000);
+						}
+					});
+							
+					return false;
+				});
+				
+				if($(window).width() > 768) {
+					/*$('.adv').each(function() {
+						var data_id = $(this).data('id');
+						
+						$.post("?adv_impression=1&id=" + data_id, function(data) {});
+						
+						console.debug('adv 1');
+					});
+					
+					$(document).on('click', '.adv', function() {
+						var data_id = $(this).data('id');
+						
+						$.post("?adv_click=1&id=" + data_id, function(data) {});
+						
+						console.debug('adv 2');
+					});*/
+				} else {
+					$('.adv').hide();
+					$('.adv-desktop-box').hide();
+				}
+			});
+			
+			function adv_impressions() {
+				
+				if($(window).width() > 768) {
+					/*$('.adv').each(function() {
+						var data_id = $(this).data('id');
+							
+						$.post("?adv_impression=1&id=" + data_id, function(data) {});
+							
+						console.debug('adv 1');
+					});*/
+				}
+			}
+		</script>
+		<style>
+			@media screen and (max-width: 480px) {
+				.adv-desktop-box {
+					display: none !important;
+				}
+			}
+		</style>
+		<div class="overlay"></div>
+		<script>
+			var myLazyLoad = new LazyLoad( { elements_selector: "img, .lazy" } );
+			/*var myLazyLoad = new LazyLoad({
+				effect : "fadeIn",
+				elements_selector: ".lazy"
+			});
+			
+			var myLazyLoad2 = new LazyLoad({
+				effect : "fadeIn",
+				elements_selector: ".readzone IMG"
+			});*/
+		</script>
+		<script>
+			/*$(document).ready(function() {
+				reload_grid(); console.debug(1);
+			});
+			
+			setTimeout(function() {
+				reload_grid(); console.debug(2);
+			}, 2000);
+			
+			setTimeout(function() {
+				reload_grid();
+				
+				console.debug(4);
+			}, 4000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 6000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 8000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 10000);*/
+		</script>
+		<div class="gallery-popup">
+			<div class="loader"></div>
+			<div class="gallery-popup-box">
+				<div class="gallery-popup-header">
+					<a href="/" class="logo2"><img src="GQ_Pride_2021.svg" height="24" alt="GQ Logo" title="GQ Logo"></a>
+					<a href="javascript:void(0);" class="gallery-popup-close-button"></a>
+				</div>
+				<div class="gallery-popup-content">
+					
+				</div>
+			</div>
+		</div>
+		<script>
+			jQuery(document).ready(function($) {
+				if($(window).width() > 768) {
+					$(document).on('click', '.gallery-photo-link', function() {
+						var data_id = $(this).data('id');
+						
+						$('.gallery-popup').fadeIn();
+						
+						$.post("?get_gallery_popup=" + data_id, function(data) {
+							$(".gallery-popup-content").html(data);
+
+							setTimeout(function() {
+								$('.gallery-popup-box').animate( { opacity: 1 }, 1000);
+							}, 350);
+						});
+						
+						return false;
+					});
+					
+					$('.gallery-popup-close-button').click(function() {
+						$('.gallery-popup-box').animate( { opacity: 0 }, 1000);
+						$('.gallery-popup').fadeOut();
+					});
+				} else {
+					$(document).on('click', '.gallery-photo-link', function() {
+						return false;
+					});
+				}
+			});
+		</script>
+		<style>
+			.gallery-popup {
+				position: fixed;
+				left: 0px;
+				top: 0px;
+				display: none;
+				width: 100%;
+				height: 100%;
+				background: #0d0d0d;
+				z-index: 9999999999;
+			}
+			
+			.gallery-popup .gallery-items {
+				background: #0d0d0d;
+				border: 1px solid #0d0d0d;
+			}
+			
+			.gallery-popup .gallery-items .slick-arrow {
+				color: #0d0d0d;
+			}
+			
+			.gallery-popup-box {
+				opacity: 0;
+			}
+			
+			.gallery-popup .gallery-popup-header {
+				padding: 25px;
+			}
+			
+			.gallery-popup-close-button {
+				position: absolute;
+				right: 25px;
+				top: 25px;
+				width: 35px;
+				height: 35px;
+				background-image: url(../images/quit.png);
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-position: center center;
+				background-color: transparent;
+				outline: none;
+				-webkit-transition-duration: 0.5s;
+				-moz-transition-duration: 0.5s;
+				-o-transition-duration: 0.5s;
+				transition-duration: 0.5s;
+				-webkit-transition-property: -webkit-transform;
+				-moz-transition-property: -moz-transform;
+				-o-transition-property: -o-transform;
+				transition-property: transform;
+			}
+			
+			.gallery-popup-close-button:hover {
+				-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg); -o-transform:rotate(180deg);
+			}
+			
+			.gallery-popup-content {
+				width: 80%;
+				text-align: center;
+				margin: 0 auto;
+				margin-top: -50px;
+				-webkit-transition: all 1s linear;
+				-moz-transition: all 1s linear;
+				-ms-transition: all 1s linear;
+				-o-transition: all 1s linear;
+				opacity: 1;
+			}
+			
+			.gallery-popup-content .gallery-numbers {
+				color: #fff;
+				text-align: center;
+			}
+			
+			.gallery-items .slick-slide {
+				
+			}
+			
+			.gallery-popup-content .image IMG {
+				display: block;
+				height: 600px;
+			}
+		</style>
+		
+	</body>
+</html>
